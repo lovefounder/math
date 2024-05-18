@@ -1,0 +1,2168 @@
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 1.0
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.99191651
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.0075901328
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.98383302
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.015180266
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.97574953
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.022770398
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.96766603
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.030360531
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.95958254
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.037950664
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.95149905
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.045540797
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.94341556
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.05313093
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.93533207
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.060721063
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.92724858
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.068311195
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.91916509
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.075901328
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.91108159
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.083491461
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.9029981
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.091081594
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.89491461
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.098671727
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.88683112
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.10626186
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.87874763
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.11385199
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.87066414
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.12144213
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.86258065
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.12903226
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.85449715
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.13662239
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.84641366
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.14421252
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.83833017
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.15180266
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.83024668
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.15939279
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.82216319
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.16698292
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.8140797
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.17457306
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.8059962
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.18216319
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.79791271
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.18975332
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.78982922
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.19734345
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.78174573
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.20493359
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.77366224
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.21252372
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.76557875
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.22011385
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.75749526
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.22770398
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.74941176
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.23529412
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.74132827
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.24288425
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.73324478
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.25047438
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.72516129
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.25806452
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.7170778
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.26565465
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.70899431
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.27324478
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.70091082
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.28083491
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.69282732
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.28842505
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.68474383
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.29601518
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.67666034
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.30360531
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.66857685
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.31119545
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.66049336
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.31878558
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.65240987
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.32637571
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.64432638
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.33396584
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.63624288
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.34155598
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.62815939
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.34914611
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.6200759
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.35673624
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.61199241
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.36432638
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.60390892
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.37191651
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.59582543
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.37950664
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.58774194
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.38709677
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.57965844
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.39468691
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.57157495
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.40227704
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.56349146
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.40986717
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.55540797
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.41745731
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.54732448
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.42504744
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.53924099
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.43263757
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.5311575
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.4402277
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.523074
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.44781784
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.51499051
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.45540797
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.50690702
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.4629981
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.49882353
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.47058824
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.49074004
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.47817837
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.48265655
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.4857685
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.47457306
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.49335863
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.46648956
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.50094877
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.45840607
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.5085389
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.45032258
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.51612903
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.44223909
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.52371917
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.4341556
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.5313093
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.42607211
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.53889943
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.41798861
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.54648956
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.40990512
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.5540797
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.40182163
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.56166983
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.39373814
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.56925996
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.38565465
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.57685009
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.37757116
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.58444023
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.36948767
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.59203036
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.36140417
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.59962049
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.35332068
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.60721063
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.34523719
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.61480076
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.3371537
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.62239089
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.32907021
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.62998102
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.32098672
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.63757116
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.31290323
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.64516129
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.30481973
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.65275142
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.29673624
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.66034156
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.28865275
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.66793169
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.28056926
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.67552182
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.27248577
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.68311195
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.26440228
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.69070209
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.25631879
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.69829222
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.24823529
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.70588235
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.2401518
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.71347249
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.23206831
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.72106262
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.22398482
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.72865275
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.21590133
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.73624288
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.20781784
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.74383302
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.19973435
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.75142315
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.19165085
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.75901328
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.18356736
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.76660342
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.17548387
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.77419355
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.16740038
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.78178368
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.15931689
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.78937381
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.1512334
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.79696395
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.14314991
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.80455408
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.13506641
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.81214421
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.12698292
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.81973435
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.11889943
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.82732448
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.11081594
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.83491461
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.10273245
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.84250474
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.094648956
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.85009488
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.086565465
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.85768501
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.078481973
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.86527514
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.070398482
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.87286528
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.062314991
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.88045541
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.054231499
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.88804554
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.046148008
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.89563567
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.038064516
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.90322581
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.029981025
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.91081594
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.021897533
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.91840607
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.013814042
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.9259962
+status: 1, Optimal
+objective: 0.0
+R: 0.0
+x0: 0.0057305503
+x1: 0.0
+x2: 0.0
+x3: 0.0
+x4: 0.93358634
+status: 1, Optimal
+objective: 6.3912918e-05
+R: 6.3912918e-05
+x0: 0.0
+x1: 0.0024581892
+x2: 0.0042608612
+x3: 0.0011620531
+x4: 0.93141484
+status: 1, Optimal
+objective: 0.00028348472
+R: 0.00028348472
+x0: 0.0
+x1: 0.010903258
+x2: 0.018898981
+x3: 0.0051542676
+x4: 0.90546905
+status: 1, Optimal
+objective: 0.00050305652
+R: 0.00050305652
+x0: 0.0
+x1: 0.019348328
+x2: 0.033537101
+x3: 0.0091464821
+x4: 0.87952326
+status: 1, Optimal
+objective: 0.00072262832
+R: 0.00072262832
+x0: 0.0
+x1: 0.027793397
+x2: 0.048175221
+x3: 0.013138697
+x4: 0.85357747
+status: 1, Optimal
+objective: 0.00094220012
+R: 0.00094220012
+x0: 0.0
+x1: 0.036238466
+x2: 0.062813341
+x3: 0.017130911
+x4: 0.82763168
+status: 1, Optimal
+objective: 0.0011617719
+R: 0.0011617719
+x0: 0.0
+x1: 0.044683535
+x2: 0.077451461
+x3: 0.021123126
+x4: 0.80168589
+status: 1, Optimal
+objective: 0.0013813437
+R: 0.0013813437
+x0: 0.0
+x1: 0.053128604
+x2: 0.092089581
+x3: 0.02511534
+x4: 0.7757401
+status: 1, Optimal
+objective: 0.0016009155
+R: 0.0016009155
+x0: 0.0
+x1: 0.061573674
+x2: 0.1067277
+x3: 0.029107555
+x4: 0.74979431
+status: 1, Optimal
+objective: 0.0018204873
+R: 0.0018204873
+x0: 0.0
+x1: 0.070018743
+x2: 0.12136582
+x3: 0.033099769
+x4: 0.72384852
+status: 1, Optimal
+objective: 0.0020400591
+R: 0.0020400591
+x0: 0.0
+x1: 0.078463812
+x2: 0.13600394
+x3: 0.037091984
+x4: 0.69790273
+status: 1, Optimal
+objective: 0.0022596309
+R: 0.0022596309
+x0: 0.0
+x1: 0.086908881
+x2: 0.15064206
+x3: 0.041084198
+x4: 0.67195694
+status: 1, Optimal
+objective: 0.0024792027
+R: 0.0024792027
+x0: 0.0
+x1: 0.09535395
+x2: 0.16528018
+x3: 0.045076413
+x4: 0.64601115
+status: 1, Optimal
+objective: 0.0026987745
+R: 0.0026987745
+x0: 0.0
+x1: 0.10379902
+x2: 0.1799183
+x3: 0.049068627
+x4: 0.62006536
+status: 1, Optimal
+objective: 0.0029183463
+R: 0.0029183463
+x0: 0.0
+x1: 0.11224409
+x2: 0.19455642
+x3: 0.053060842
+x4: 0.59411957
+status: 1, Optimal
+objective: 0.0031379181
+R: 0.0031379181
+x0: 0.0
+x1: 0.12068916
+x2: 0.20919454
+x3: 0.057053057
+x4: 0.56817378
+status: 1, Optimal
+objective: 0.0033574899
+R: 0.0033574899
+x0: 0.0
+x1: 0.12913423
+x2: 0.22383266
+x3: 0.061045271
+x4: 0.54222799
+status: 1, Optimal
+objective: 0.0035770617
+R: 0.0035770617
+x0: 0.0
+x1: 0.1375793
+x2: 0.23847078
+x3: 0.065037486
+x4: 0.5162822
+status: 1, Optimal
+objective: 0.0037966335
+R: 0.0037966335
+x0: 0.0
+x1: 0.14602437
+x2: 0.2531089
+x3: 0.0690297
+x4: 0.49033641
+status: 1, Optimal
+objective: 0.0040162053
+R: 0.0040162053
+x0: 0.0
+x1: 0.15446943
+x2: 0.26774702
+x3: 0.073021915
+x4: 0.46439062
+status: 1, Optimal
+objective: 0.0042357771
+R: 0.0042357771
+x0: 0.0
+x1: 0.1629145
+x2: 0.28238514
+x3: 0.077014129
+x4: 0.43844483
+status: 1, Optimal
+objective: 0.0044553489
+R: 0.0044553489
+x0: 0.0
+x1: 0.17135957
+x2: 0.29702326
+x3: 0.081006344
+x4: 0.41249904
+status: 1, Optimal
+objective: 0.0046749207
+R: 0.0046749207
+x0: 0.0
+x1: 0.17980464
+x2: 0.31166138
+x3: 0.084998558
+x4: 0.38655325
+status: 1, Optimal
+objective: 0.0048944925
+R: 0.0048944925
+x0: 0.0
+x1: 0.18824971
+x2: 0.3262995
+x3: 0.088990773
+x4: 0.36060746
+status: 1, Optimal
+objective: 0.0051140643
+R: 0.0051140643
+x0: 0.0
+x1: 0.19669478
+x2: 0.34093762
+x3: 0.092982987
+x4: 0.33466167
+status: 1, Optimal
+objective: 0.0053336361
+R: 0.0053336361
+x0: 0.0
+x1: 0.20513985
+x2: 0.35557574
+x3: 0.096975202
+x4: 0.30871588
+status: 1, Optimal
+objective: 0.0055532079
+R: 0.0055532079
+x0: 0.0
+x1: 0.21358492
+x2: 0.37021386
+x3: 0.10096742
+x4: 0.28277009
+status: 1, Optimal
+objective: 0.0057727797
+R: 0.0057727797
+x0: 0.0
+x1: 0.22202999
+x2: 0.38485198
+x3: 0.10495963
+x4: 0.2568243
+status: 1, Optimal
+objective: 0.0059923515
+R: 0.0059923515
+x0: 0.0
+x1: 0.23047506
+x2: 0.3994901
+x3: 0.10895185
+x4: 0.23087851
+status: 1, Optimal
+objective: 0.0062119233
+R: 0.0062119233
+x0: 0.0
+x1: 0.23892013
+x2: 0.41412822
+x3: 0.11294406
+x4: 0.20493272
+status: 1, Optimal
+objective: 0.0064314951
+R: 0.0064314951
+x0: 0.0
+x1: 0.2473652
+x2: 0.42876634
+x3: 0.11693627
+x4: 0.17898693
+status: 1, Optimal
+objective: 0.0066510669
+R: 0.0066510669
+x0: 0.0
+x1: 0.25581027
+x2: 0.44340446
+x3: 0.12092849
+x4: 0.15304114
+status: 1, Optimal
+objective: 0.0068706387
+R: 0.0068706387
+x0: 0.0
+x1: 0.26425533
+x2: 0.45804258
+x3: 0.1249207
+x4: 0.12709535
+status: 1, Optimal
+objective: 0.0070902105
+R: 0.0070902105
+x0: 0.0
+x1: 0.2727004
+x2: 0.4726807
+x3: 0.12891292
+x4: 0.10114956
+status: 1, Optimal
+objective: 0.0073097823
+R: 0.0073097823
+x0: 0.0
+x1: 0.28114547
+x2: 0.48731882
+x3: 0.13290513
+x4: 0.075203768
+status: 1, Optimal
+objective: 0.0075293541
+R: 0.0075293541
+x0: 0.0
+x1: 0.28959054
+x2: 0.50195694
+x3: 0.13689735
+x4: 0.049257978
+status: 1, Optimal
+objective: 0.0077489259
+R: 0.0077489259
+x0: 0.0
+x1: 0.29803561
+x2: 0.51659506
+x3: 0.14088956
+x4: 0.023312188
+status: 1, Optimal
+objective: 0.0079707523
+R: 0.0079707523
+x0: 0.0
+x1: 0.30656739
+x2: 0.53138348
+x3: 0.14196725
+x4: 0.0
+status: 1, Optimal
+objective: 0.0082125356
+R: 0.0082125356
+x0: 0.0
+x1: 0.31586675
+x2: 0.54750237
+x3: 0.11724608
+x4: 0.0
+status: 1, Optimal
+objective: 0.0084543189
+R: 0.0084543189
+x0: 0.0
+x1: 0.32516611
+x2: 0.56362126
+x3: 0.092524917
+x4: 0.0
+status: 1, Optimal
+objective: 0.0086961023
+R: 0.0086961023
+x0: 0.0
+x1: 0.33446547
+x2: 0.57974015
+x3: 0.067803749
+x4: 0.0
+status: 1, Optimal
+objective: 0.0089378856
+R: 0.0089378856
+x0: 0.0
+x1: 0.34376483
+x2: 0.59585904
+x3: 0.043082582
+x4: 0.0
+status: 1, Optimal
+objective: 0.009179669
+R: 0.009179669
+x0: 0.0
+x1: 0.35306419
+x2: 0.61197793
+x3: 0.018361414
+x4: 0.0
+status: 1, Optimal
+objective: 0.0094409581
+R: 0.0094409581
+x0: 0.0
+x1: 0.36311377
+x2: 0.62083832
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.0097585629
+R: 0.0097585629
+x0: 0.0
+x1: 0.37532934
+x2: 0.60874251
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.010076168
+R: 0.010076168
+x0: 0.0
+x1: 0.38754491
+x2: 0.59664671
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.010393772
+R: 0.010393772
+x0: 0.0
+x1: 0.39976048
+x2: 0.5845509
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.010711377
+R: 0.010711377
+x0: 0.0
+x1: 0.41197605
+x2: 0.57245509
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.011028982
+R: 0.011028982
+x0: 0.0
+x1: 0.42419162
+x2: 0.56035928
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.011346587
+R: 0.011346587
+x0: 0.0
+x1: 0.43640719
+x2: 0.54826347
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.011664192
+R: 0.011664192
+x0: 0.0
+x1: 0.44862275
+x2: 0.53616766
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.011981796
+R: 0.011981796
+x0: 0.0
+x1: 0.46083832
+x2: 0.52407186
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.012299401
+R: 0.012299401
+x0: 0.0
+x1: 0.47305389
+x2: 0.51197605
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.012617006
+R: 0.012617006
+x0: 0.0
+x1: 0.48526946
+x2: 0.49988024
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.012934611
+R: 0.012934611
+x0: 0.0
+x1: 0.49748503
+x2: 0.48778443
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.013252216
+R: 0.013252216
+x0: 0.0
+x1: 0.5097006
+x2: 0.47568862
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.01356982
+R: 0.01356982
+x0: 0.0
+x1: 0.52191617
+x2: 0.46359281
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.013887425
+R: 0.013887425
+x0: 0.0
+x1: 0.53413174
+x2: 0.45149701
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.01420503
+R: 0.01420503
+x0: 0.0
+x1: 0.54634731
+x2: 0.4394012
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.014522635
+R: 0.014522635
+x0: 0.0
+x1: 0.55856287
+x2: 0.42730539
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.01484024
+R: 0.01484024
+x0: 0.0
+x1: 0.57077844
+x2: 0.41520958
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.015157844
+R: 0.015157844
+x0: 0.0
+x1: 0.58299401
+x2: 0.40311377
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.015475449
+R: 0.015475449
+x0: 0.0
+x1: 0.59520958
+x2: 0.39101796
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.015793054
+R: 0.015793054
+x0: 0.0
+x1: 0.60742515
+x2: 0.37892216
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.016110659
+R: 0.016110659
+x0: 0.0
+x1: 0.61964072
+x2: 0.36682635
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.016428263
+R: 0.016428263
+x0: 0.0
+x1: 0.63185629
+x2: 0.35473054
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.016745868
+R: 0.016745868
+x0: 0.0
+x1: 0.64407186
+x2: 0.34263473
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.017063473
+R: 0.017063473
+x0: 0.0
+x1: 0.65628743
+x2: 0.33053892
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.017381078
+R: 0.017381078
+x0: 0.0
+x1: 0.66850299
+x2: 0.31844311
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.017698683
+R: 0.017698683
+x0: 0.0
+x1: 0.68071856
+x2: 0.30634731
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.018016287
+R: 0.018016287
+x0: 0.0
+x1: 0.69293413
+x2: 0.2942515
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.018333892
+R: 0.018333892
+x0: 0.0
+x1: 0.7051497
+x2: 0.28215569
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.018651497
+R: 0.018651497
+x0: 0.0
+x1: 0.71736527
+x2: 0.27005988
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.018969102
+R: 0.018969102
+x0: 0.0
+x1: 0.72958084
+x2: 0.25796407
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.019286707
+R: 0.019286707
+x0: 0.0
+x1: 0.74179641
+x2: 0.24586826
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.019604311
+R: 0.019604311
+x0: 0.0
+x1: 0.75401198
+x2: 0.23377246
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.019921916
+R: 0.019921916
+x0: 0.0
+x1: 0.76622754
+x2: 0.22167665
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.020239521
+R: 0.020239521
+x0: 0.0
+x1: 0.77844311
+x2: 0.20958084
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.020557126
+R: 0.020557126
+x0: 0.0
+x1: 0.79065868
+x2: 0.19748503
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.020874731
+R: 0.020874731
+x0: 0.0
+x1: 0.80287425
+x2: 0.18538922
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.021192335
+R: 0.021192335
+x0: 0.0
+x1: 0.81508982
+x2: 0.17329341
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.02150994
+R: 0.02150994
+x0: 0.0
+x1: 0.82730539
+x2: 0.1611976
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.021827545
+R: 0.021827545
+x0: 0.0
+x1: 0.83952096
+x2: 0.1491018
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.02214515
+R: 0.02214515
+x0: 0.0
+x1: 0.85173653
+x2: 0.13700599
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.022462754
+R: 0.022462754
+x0: 0.0
+x1: 0.8639521
+x2: 0.12491018
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.022780359
+R: 0.022780359
+x0: 0.0
+x1: 0.87616766
+x2: 0.11281437
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.023097964
+R: 0.023097964
+x0: 0.0
+x1: 0.88838323
+x2: 0.10071856
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.023415569
+R: 0.023415569
+x0: 0.0
+x1: 0.9005988
+x2: 0.088622754
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.023733174
+R: 0.023733174
+x0: 0.0
+x1: 0.91281437
+x2: 0.076526946
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.024050778
+R: 0.024050778
+x0: 0.0
+x1: 0.92502994
+x2: 0.064431138
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.024368383
+R: 0.024368383
+x0: 0.0
+x1: 0.93724551
+x2: 0.052335329
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.024685988
+R: 0.024685988
+x0: 0.0
+x1: 0.94946108
+x2: 0.040239521
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.025003593
+R: 0.025003593
+x0: 0.0
+x1: 0.96167665
+x2: 0.028143713
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.025321198
+R: 0.025321198
+x0: 0.0
+x1: 0.97389222
+x2: 0.016047904
+x3: 0.0
+x4: 0.0
+status: 1, Optimal
+objective: 0.025638802
+R: 0.025638802
+x0: 0.0
+x1: 0.98610778
+x2: 0.0039520958
+x3: 0.0
+x4: 0.0
+status: -1, Infeasible
+objective: 0.025956407
+R: 0.025956407
+x0: 0.0
+x1: 0.99832335
+x2: -0.0081437126
+x3: 0.0
+x4: 0.0
+status: -1, Infeasible
+objective: 0.026274012
+R: 0.026274012
+x0: 0.0
+x1: 1.0105389
+x2: -0.020239521
+x3: 0.0
+x4: 0.0
+status: -1, Infeasible
+objective: 0.026591617
+R: 0.026591617
+x0: 0.0
+x1: 1.0227545
+x2: -0.032335329
+x3: 0.0
+x4: 0.0
