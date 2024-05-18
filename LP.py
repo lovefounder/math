@@ -1,6 +1,9 @@
 import pulp as pl
 import numpy as np
+import matplotlib.pyplot as plt
 
+x_name = [i for i in np.arange(0, 0.271, 0.001)]
+y_name = []
 for k in np.arange(0,0.271,0.001):
     model = pl.LpProblem(name = 'My_model' , sense = pl.LpMinimize)
 
@@ -20,12 +23,16 @@ for k in np.arange(0,0.271,0.001):
     model += R
 
     status = model.solve()
-
+    y_name.append(model.objective.value())
     # Get the results
-    with open("optput.txt",'a') as f:
-        f.write(f"k = {k}\n")
-        f.write(f"status: {model.status}, {pl.LpStatus[model.status]}\n")
-        f.write(f"objective: {model.objective.value()}\n")
+    # with open("optput.txt",'a') as f:
+    #     f.write(f"k = {k}\n")
+    #     f.write(f"status: {model.status}, {pl.LpStatus[model.status]}\n")
+    #     f.write(f"objective: {model.objective.value()}\n")
         
-        for var in model.variables():
-            f.write(f"{var.name}: {var.value()}\n")
+    #     for var in model.variables():
+    #         f.write(f"{var.name}: {var.value()}\n")
+plt.scatter(x_name,y_name,color='blue',marker='x',label='item 1')
+plt.grid(True)
+plt.legend()
+plt.show()
