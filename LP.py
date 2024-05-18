@@ -23,6 +23,7 @@ for k in np.arange(0,0.271,0.001):
 
     # Get the results
     with open("optput.txt",'a') as f:
+        f.write(f"k = {k}\n")
         f.write(f"status: {model.status}, {pl.LpStatus[model.status]}\n")
         f.write(f"objective: {model.objective.value()}\n")
         
